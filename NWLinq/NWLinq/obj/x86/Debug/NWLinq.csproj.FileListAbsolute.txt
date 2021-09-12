@@ -1,0 +1,23 @@
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.QLDonHang.resources
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\bin\Debug\NWLinq.exe.config
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\bin\Debug\NWLinq.exe
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\bin\Debug\NWLinq.pdb
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.exe
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.pdb
+D:\Visual Studio 2010\Projects\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csprojResolveAssemblyReference.cache
+D:\LTCSDL\NWLinq\NWLinq\bin\Debug\NWLinq.exe.config
+D:\LTCSDL\NWLinq\NWLinq\bin\Debug\NWLinq.exe
+D:\LTCSDL\NWLinq\NWLinq\bin\Debug\NWLinq.pdb
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csprojAssemblyReference.cache
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.QLDonHang.resources
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.Properties.Resources.resources
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csproj.GenerateResource.cache
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.csproj.CoreCompileInputs.cache
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.exe
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.pdb
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.CTDH.resources
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.FDatHang.resources
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.QLNhanVien.resources
+D:\LTCSDL\NWLinq\NWLinq\obj\x86\Debug\NWLinq.QLSanPham.resources
